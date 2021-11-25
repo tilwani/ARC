@@ -15,6 +15,8 @@ import re
 Name: Rohit Kumar Tilwani
 Student ID: 21235507
 
+Github URL: https://github.com/tilwani/ARC
+
 The approach and required transformations are discussed for every task.
 
 Summary: Many reasoning tasks in the corpus require identifying shapes and patterns in the form of figures
