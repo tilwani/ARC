@@ -167,7 +167,7 @@ def solve_6a1e5592(arr):
 #***************** solving task 00d62c1b *****************************
 
 """
-Required Transformations: Here, the major transformation is to identify the bounded shape that can occur in any shape.
+Required Transformations: Here, the major transformation is to identify the bounded figure that can occur in any shape.
 This requires to cover a point in all directions since the boundary can be far away or can break in
 between in any other direction.
 
