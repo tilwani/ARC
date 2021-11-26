@@ -71,7 +71,7 @@ In the `src` directory, python file `manual_solve.py` solves few tasks using a h
 
 | Task_ID   | Solver function | Task Description |
 | --------- | --------------- | ---------------- |
-| `6a1e5592` | `solve_6a1e5592(arr)` | This task requires to identify and keep track of the different shapes present at the bottom and its subset figure present at the top of the grid. Once identified, the bottom shapes must be placed in their correct position (at the top) after matching, which requires cross matching to find the best match. |
-| `00d62c1b` | `solve_00d62c1b(arr)` | Identification of the bounded figure that can occur in any shape. This requires to cover a point in all directions since the boundary can be far away or can break in between in any other direction. Once identified, fill the area within the boundary with yellow. |
-| `8efcae92` | `solve_8efcae92(arr)` | The task requires to identify the figure with the maximum number of red dots inside. It is important to correctly and efficiently identify all the rectangles present in the given array. |
-| `05f2a901` | `solve_05f2a901(arr)` | This task requires us to shift an image either across the row or columns in a way so that it touches the given square figure, which is fixed and can't be moved. |
+| 6a1e5592 | `solve_6a1e5592(arr)` | This task requires to identify and keep track of the different shapes present at the bottom and its subset figure present at the top of the grid. Once identified, the bottom shapes must be placed in their correct position (at the top) after matching, which requires cross matching to find the best match. |
+| 00d62c1b | `solve_00d62c1b(arr)` | Identification of the bounded figure that can occur in any shape. This requires to cover a point in all directions since the boundary can be far away or can break in between in any other direction. Once identified, fill the area within the boundary with yellow. |
+| 8efcae92 | `solve_8efcae92(arr)` | The task requires to identify the figure with the maximum number of red dots inside. It is important to correctly and efficiently identify all the rectangles present in the given array. |
+| 05f2a901 | `solve_05f2a901(arr)` | This task requires us to shift an image either across the row or columns in a way so that it touches the given square figure, which is fixed and can't be moved. |
